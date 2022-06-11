@@ -16,3 +16,7 @@
 * git checkout - переход от одного коммита к другому
 * git checkout master - возврат к актуальному состоянию
 * git diff - разница между текущим и закоммиченным файлом.
+
+### Синтаксис
+
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference.
